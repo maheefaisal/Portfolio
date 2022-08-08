@@ -31,3 +31,17 @@ h1{
 section{
     height: 1000px;
 }
+.hireme_button{
+    text-decoration: none;
+    background-color: rgb(237, 182, 79);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color:black; 
+    font-weight:500;
+    background-image: linear-gradient(white,rgb(251, 165, 5),tomato);
+}
+.dream-project-area {
+    background-image: url("../image/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right top; 
+}
