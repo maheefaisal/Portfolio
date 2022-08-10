@@ -53,7 +53,20 @@ section{
     background-image: url("../image/exp-bg.png");
     background-repeat: no-repeat;
     background-position: left ; 
+    
 }
 #fullstack{
+    border-left: 7px solid;
+    border-image: linear-gradient(orange,tomato);
+    border-image-slice: 1;
     
+}
+#htmlcssdeisgner{
+    border-left: 7px solid;
+    border-image: linear-gradient(orange,red);
+    border-image-slice: 1;
+
+}
+footer{
+    text-align: center;
 }
