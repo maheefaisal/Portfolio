@@ -45,3 +45,15 @@ section{
     background-repeat: no-repeat;
     background-position: right top; 
 }
+.mahee-experience{
+    box-shadow: 10px  10px 40px grey;
+
+}
+.experience-area{
+    background-image: url("../image/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left ; 
+}
+#fullstack{
+    
+}
